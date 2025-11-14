@@ -1,4 +1,4 @@
-import com.example.utils.TextTools;
+import com.example.util.TextTools;
 
 public class UseLocal {
     public static void main(String[] args) {
